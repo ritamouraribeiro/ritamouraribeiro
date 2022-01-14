@@ -3,7 +3,7 @@
  
 - :woman_office_worker:I'm currently working on [Farfetch](https://www.farfetch.com/)
 - :woman_technologist: My projects are available at https://github.com/ritamouraribeiro
-- :bulb: Interesting fact, <b> I made a career switch </b> - I was a clinical analyst :woman_health_worker:
+- :bulb: Interesting fact, <b> I made a career switch </b> - I was a clinical analyst :woman_health_worker::syringe:
 - 📫 How to reach me a.rita.ribeiro16@gmail.com
 
 <H4>Connect with me:</H4>
