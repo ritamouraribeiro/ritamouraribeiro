@@ -1,5 +1,5 @@
  <H1 align="center"> Hi 👋, I’m Rita Ribeiro </H1>
- <H4 align="center"> A Junior Software Engineer </H4>
+ <H3 align="center"> A Junior Software Engineer </H3>
  
 - :woman_office_worker:I'm currently working on [Farfetch](https://www.farfetch.com/)
 - :woman_technologist: My projects are available at https://github.com/ritamouraribeiro
